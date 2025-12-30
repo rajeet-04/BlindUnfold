@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-video)
+[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3ciUBsc0flI)
 
 **Click above to see BlindUnfold in action!**
 
