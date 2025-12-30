@@ -3,14 +3,14 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg)
-![React](https://img.shields.io/badge/React-19.2.3-61DAFB? logo=react)
+![React](https://img.shields.io/badge/React-19.2.3-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![PWA](https://img.shields.io/badge/PWA-enabled-5A0FC8?logo=pwa)
 
 **A Real-time Vision Assistance PWA for Visually Impaired Students**
 
-[🔴 LIVE DEMO](https://your-demo-link.vercel.app) • [📹 Video Demo](#-demo-video) • [📸 Screenshots](#️-screenshots) • [⭐ Features](#-features)
+ [📹 Video Demo](#-demo-video) • [⭐ Features](#-features)
 
 </div>
 
@@ -25,29 +25,6 @@
 **Click above to see BlindUnfold in action!**
 
 *3-minute walkthrough showing real-time text recognition, scene analysis, handwriting reading, and voice commands*
-
-</div>
-
----
-
-## 🖼️ Screenshots
-
-<div align="center">
-
-### Main Interface
-<img src="screenshots/main.png" width="250" alt="Main camera interface with accessibility toolbar">
-
-### Real-time Text Scanning
-<img src="screenshots/scanning.png" width="250" alt="Active text recognition with visual feedback">
-
-### Voice Control
-<img src="screenshots/voice. png" width="250" alt="Voice command interface active">
-
-### Scene Analysis
-<img src="screenshots/scene-analysis.png" width="250" alt="AI-powered scene description">
-
-### Handwriting Recognition
-<img src="screenshots/handwriting.png" width="250" alt="Handwriting to text conversion">
 
 </div>
 
