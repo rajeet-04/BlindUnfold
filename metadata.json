@@ -1,0 +1,8 @@
+{
+  "name": "VisionAssist",
+  "description": "A high-performance accessible PWA for the visually impaired using real-time OCR and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
