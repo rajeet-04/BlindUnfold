@@ -302,7 +302,7 @@ Text/Description → Validation → TTS Engine → Audio Output
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Iankitsinghak/BlindUnfold.git
+   git clone https://github.com/rajeet-04/BlindUnfold.git
    cd BlindUnfold
    ```
 
@@ -585,28 +585,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 🗺️ Roadmap
-
-### Version 0.1.0 (Q1 2026)
-- [ ] Add offline OCR support
-- [ ] Implement text translation
-- [ ] Add object detection (YOLOv8)
-- [ ] Support for more languages (50+)
-
-### Version 0.2.0 (Q2 2026)
-- [ ] QR code and barcode scanning
-- [ ] Currency recognition
-- [ ] Color identification
-- [ ] Document structure recognition
-
-### Version 1.0.0 (Q3 2026)
-- [ ] Navigation assistance
-- [ ] Indoor mapping
-- [ ] Social media integration
-- [ ] Cloud sync for user preferences
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -630,27 +608,6 @@ This project was inspired by the need for accessible, free vision assistance too
 - Organizations supporting visually impaired education
 - Beta testers and early adopters
 
-### Original Repository
-
-This is a fork of [rajeet-04/BlindUnfold](https://github.com/rajeet-04/BlindUnfold).
-
----
-
-## 📞 Contact & Support
-
-### Developer
-
-- **GitHub**: [@Iankitsinghak](https://github.com/Iankitsinghak)
-- **Email**: iankitsinghak@example.com
-
-### Issues
-
-Found a bug or have a feature request? Please open an issue on [GitHub Issues](https://github.com/Iankitsinghak/BlindUnfold/issues).
-
-### Community
-
-Join our discussions on [GitHub Discussions](https://github.com/Iankitsinghak/BlindUnfold/discussions).
-
 ---
 
 <div align="center">
@@ -659,44 +616,4 @@ Join our discussions on [GitHub Discussions](https://github.com/Iankitsinghak/Bl
 
 If this project helps you, please consider giving it a ⭐! 
 
-[🐛 Report Bug](https://github.com/Iankitsinghak/BlindUnfold/issues) · [✨ Request Feature](https://github.com/Iankitsinghak/BlindUnfold/issues) · [📖 Documentation](https://github.com/Iankitsinghak/BlindUnfold/wiki)
-
 </div>
-
----
-
-## 📊 Project Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/Iankitsinghak/BlindUnfold?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Iankitsinghak/BlindUnfold?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/Iankitsinghak/BlindUnfold)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Iankitsinghak/BlindUnfold)
-
----
-
-## 🔒 Security
-
-### Responsible Disclosure
-
-If you discover a security vulnerability, please email security@example.com instead of using the issue tracker.
-
-### Privacy
-
-This application: 
-- ✅ Processes all camera data locally
-- ✅ Only sends images to Gemini API when explicitly triggered
-- ✅ Does not store any user data
-- ✅ Requires no authentication or personal information
-
----
-
-## 🏆 Awards & Recognition
-
-*This section will be updated as the project receives recognition*
-
-- 🎯 Hackathon Submission:  [Event Name] - [Date]
-- 🌟 Featured on:  [Platform] - [Date]
-
----
-
-**Last Updated**:  December 30, 2025 | **Version**:  0.0.0
